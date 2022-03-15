@@ -1,6 +1,5 @@
 Andre Austin
 V#00827611
-Programming Assignment #1
 
 Handles all invalid arguments. 
 
